@@ -91,13 +91,13 @@
   <a href="mailto:varshil.mscit16@gmail.com">
     <img src="https://res.cloudinary.com/dbcv4wkjh/image/upload/v1748159826/icons8-gmail-100_bpyy6s.png" width="100"/>
   </a>
-  <a href="[https://github.com/your-github-username](https://github.com/varshildoshi)">
+  <a href="https://github.com/varshildoshi">
     <img src="https://res.cloudinary.com/dbcv4wkjh/image/upload/v1748159826/icons8-github-100_c4rqpn.png" width="100"/>
   </a>
-  <a href="[https://linkedin.com/in/your-linkedin-id](https://www.linkedin.com/in/varshil-doshi-798941b4)">
+  <a href="https://www.linkedin.com/in/varshil-doshi-798941b4">
     <img src="https://res.cloudinary.com/dbcv4wkjh/image/upload/v1748159826/icons8-linkedin-100_jvlhed.png" width="100"/>
   </a>
-  <a href="[https://your-portfolio.com](https://personalportfoliowebsite199.web.app)">
+  <a href="https://personalportfoliowebsite199.web.app">
     <img src="https://res.cloudinary.com/dbcv4wkjh/image/upload/v1748159826/icons8-globe-network-100_fshnbk.png" width="100"/>
   </a>
 </p>
